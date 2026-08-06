@@ -28,7 +28,7 @@ coef = {
 
 # ==================== Page Configuration ====================
 st.set_page_config(page_title="Prediction Calculator", layout="wide")
-st.title("Online Calculator for Surgical Resection Prediction in uHCC")
+st.title("Online Calculator for Surgical Resection Prediction in Unresectable Hepatocellular Carcinoma")
 st.markdown("Please enter the patient's clinical parameters, and then click the button to obtain the predicted probability.")
 
 # Sidebar for input controls
